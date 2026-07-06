@@ -5,9 +5,9 @@ Daily SQL practice as part of my Data Science learning roadmap.
 ## Structure
 
 ```
-sql-practice/
-├── week1/   - SELECT, WHERE, GROUP BY, JOINs
-├── week2/   - coming soon
+data-science-practice/
+├── week1/   - SQL
+├── week2/   - Pandas
 └── ...
 ```
 
