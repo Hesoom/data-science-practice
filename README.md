@@ -1,6 +1,6 @@
-# SQL Practice
+# Data Science Practice
 
-Daily SQL practice as part of my Data Science learning roadmap.
+Daily data science practice as part of my learning roadmap.
 
 ## Structure
 
