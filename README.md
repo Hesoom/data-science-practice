@@ -8,6 +8,8 @@ Daily data science practice as part of my learning roadmap.
 data-science-practice/
 ├── week1/   - SQL
 ├── week2/   - Pandas
+├── week3/   - Statistics
+├── week4/   - Visualization
 └── ...
 ```
 
